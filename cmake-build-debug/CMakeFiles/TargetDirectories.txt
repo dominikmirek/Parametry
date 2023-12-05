@@ -1,0 +1,3 @@
+/Users/dominik.mirek/CLionProjects/gowno/cmake-build-debug/CMakeFiles/gowno.dir
+/Users/dominik.mirek/CLionProjects/gowno/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dominik.mirek/CLionProjects/gowno/cmake-build-debug/CMakeFiles/rebuild_cache.dir
